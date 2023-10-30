@@ -49,7 +49,7 @@ Test videos are generated in the "videos" folder when running tests via the CLI,
 
 1. Open terminal.
 
-2. For this assignment, there is prepared npm scipts in the package.json for common use case. To run this, use "npm run test"
+2. For this assignment, there is prepared npm scipts in the package.json for common use case. To run this, use `npm run test`
 
    "test": run matomo tests
 
@@ -57,7 +57,7 @@ Test videos are generated in the "videos" folder when running tests via the CLI,
 
 1. Run test.
 
-2. View the report under cypress/reports/html folder.
+2. View the report under **cypress/reports/html** folder.
 
 3. Open the report `index.html` in any browser.
 
