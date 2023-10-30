@@ -55,7 +55,7 @@ Test videos are generated in the "videos" folder when running tests via the CLI,
 
 # Run Tests <a name="Run"></a>
 
-1. Run test.
+1. Run test in CLI mode.
 
 2. View the report under **cypress/reports/html** folder.
 
